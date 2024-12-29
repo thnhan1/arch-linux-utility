@@ -1,5 +1,5 @@
 
-# Minimal TexLive installation on Arch
+# Add SSH keys for GitHub
 - tags: `#git`
 - updated: 2024-12-29
 - editor: "@nhanthatsu"
