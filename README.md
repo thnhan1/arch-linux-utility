@@ -125,7 +125,7 @@ Command (m for help): <b>d</b>
 Command (m for help): <b>n</b>
 Partition number (1-128, default 1): <b>Enter &crarr;</b>
 First sector (..., default 2048): <b>Enter &crarr;</b>
-Last sector ...: <b>+256M</b>
+Last sector ...: <b>+1G</b>
 <span />
                 <i>[create partition 2: main]</i>
 Command (m for help): <b>n</b>
@@ -1092,3 +1092,7 @@ $ <b>sudo cryptsetup luksChangeKey /dev/sdb1 -S 0</b>   # use your own slot numb
 3. Stop pulseaudio service: `pulseaudio -k`
 4. Clear pulseaudio cache: `rm -r ~/.config/pulse/*`
 5. Start pulseaudio once again: `pulseaudio --start`
+
+
+# Collections popular problem and config in Arch Linux
+- [Minimal Install tex Live](./arch-config/latex.md)

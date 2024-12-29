@@ -1,0 +1,27 @@
+# Minimal TexLive installation on Arch
+
+- tags: `#latex`
+- updated: 2024-12-29
+- editor: "@nhanthatsu"
+---
+
+## minium
+```bash
+texlive-bin # TeX Live binaries
+texlive-core # TeX Live core distribution
+```
+
+## math
+```bash
+texlive-science # TeX Live - Typesetting for mathematics, natural and computer sciences
+texlive-pictures # TeX Live - Packages for drawings graphics
+texlive-pstricks # TeX Live - Additional PSTricks packages
+```
+
+## for authblk.sty
+```bash
+texlive-latexextra # TeX Live - Large collection of add-on packages for LaTeX
+```
+
+## References
+- [Aurelien's Blog - Minimal TeX Live installation on Arch LInux]()
