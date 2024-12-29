@@ -6,7 +6,7 @@
 ---
 
 ## minium
-```bash
+```bashbash
 texlive-bin # TeX Live binaries
 texlive-core # TeX Live core distribution
 ```
@@ -21,6 +21,12 @@ texlive-pstricks # TeX Live - Additional PSTricks packages
 ## for authblk.sty
 ```bash
 texlive-latexextra # TeX Live - Large collection of add-on packages for LaTeX
+```
+
+## install latex editor
+I prefer `texstudio`
+```bash
+yay -S texstudio
 ```
 
 ## References
