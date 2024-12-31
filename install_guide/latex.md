@@ -30,4 +30,4 @@ yay -S texstudio
 ```
 
 ## References
-- [Aurelien's Blog - Minimal TeX Live installation on Arch LInux]()
+- [Aurelien's Blog - Minimal TeX Live installation on Arch Linux]()
